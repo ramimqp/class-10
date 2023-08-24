@@ -1,0 +1,74 @@
+/* =========Common CSS Start ========= */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul, ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+.container{
+    width: 940px;
+    margin: 0 auto;
+}
+/* =========Common CSS End ========= */
+/* =========Header CSS Start ========= */
+#header{
+    height: 32px;
+    background: #0872b9;
+}
+.header-cont{
+    height: 32px;
+    /* background: #832c2c; */
+}
+.header-text{
+    width: 50%;
+    height: 32px;
+    /* background: plum; */
+    float: left;
+}
+.header-icon{
+    width: 50%;
+    height: 32px;
+    /* background: purple; */
+    float: left;
+}
+.header-text p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #fff;
+    line-height: 32px;
+}
+.header-icon a{
+    color: #fff;
+    font-size: 14px;
+    line-height: 32px;
+    float: right;
+    margin: 0 25px;
+    transition: all linear .5s;
+}
+.header-icon a:hover{
+    color: #2a4456;
+    
+}
+
+
+
+
+/* =========Header CSS End ========= */
+/* =========Common CSS Start ========= */
+/* =========Common CSS End ========= */
+/* =========Common CSS Start ========= */
+/* =========Common CSS End ========= */
+/* =========Common CSS Start ========= */
+/* =========Common CSS End ========= */
+/* =========Common CSS Start ========= */
+/* =========Common CSS End ========= */
+/* =========Common CSS Start ========= */
+/* =========Common CSS End ========= */
+/* =========Common CSS Start ========= */
+/* =========Common CSS End ========= */
